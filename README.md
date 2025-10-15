@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <img src="github.png" width="600" alt="Engineer code card"/>
+  <img src="who_am_I.png" width="600" alt="Engineer code card"/>
 </p>
 
 ---
